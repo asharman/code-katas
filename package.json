@@ -1,0 +1,24 @@
+{
+    "name": "code-katas",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Daily code katas",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/asharman/code-katas.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/asharman/code-katas/issues"
+    },
+    "homepage": "https://github.com/asharman/code-katas#readme",
+    "devDependencies": {
+        "eslint": "^7.6.0"
+    }
+}
